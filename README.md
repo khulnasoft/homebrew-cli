@@ -9,10 +9,10 @@ To install [Tart Virtualization](https://github.com/khulnasoft/tart) run:
 brew install khulnasoft/cli/tart
 ```
 
-## Cirrus CLI
+## Kengine CLI
 
-To install [Cirrus CLI](https://github.com/khulnasoft/cirrus-cli) run:
+To install [Kengine CLI](https://github.com/khulnasoft/kengine-cli) run:
 
 ```bash
-brew install khulnasoft/cli/cirrus
+brew install khulnasoft/cli/kengine
 ```
